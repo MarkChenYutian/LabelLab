@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,cACI,YACJ,CACA,0BACI,SACJ","file":"18.0e3958dd.chunk.css","sourcesContent":[".project-main{\n    display: flex;\n}\n.project-non-side-section{\n    width: 75%;\n}"]}
